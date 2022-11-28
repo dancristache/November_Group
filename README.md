@@ -8,7 +8,7 @@ This is the Git Repository for participants of 15th November course group. In th
 
 -   The teacher will give you the asignment name for example ('demo-project')
 -   You clone the repo, create a branch with your own name and create a pull request to be approved and reviewed.
--   Generally, the reviews are done all week, untill Monday 18:30.
+-   Generally, the reviews are done all week, untill Monday 18:00.
 
 # Installation guide:
 
