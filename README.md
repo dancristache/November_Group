@@ -14,7 +14,7 @@
 8.	In pagina index.html, sub lista de definitii de la punctul 6, creati un link care sa duca la pagina-doi.html.
 9.	In pagina-doi.html creati 2 liste neordonate, urmarind exemplul de mai jos: 
 
-![lists](https://user-images.githubusercontent.com/87221229/180209432-705a6b66-601d-4a63-955f-9e33ba63efa2.PNG)
+![lists](https://github.com/Newtech-Academy/November_Group/blob/Homework-1-HTML/images/lists.PNG?raw=true)
 
 
 10.	In pagina-doi.html, creati doua tabele, dupa modelele de mai jos:
