@@ -21,7 +21,7 @@
 
 ![tabel](https://user-images.githubusercontent.com/87221229/180209562-e1f7d83d-bf73-4580-9706-1f99a7684f87.PNG)
 
-![tabel](https://github.com/Newtech-Academy/September_Group/blob/Homework-1---Original/images/tabel2.PNG?raw=true)
+![tabel](https://github.com/Newtech-Academy/November_Group/blob/Homework-1-HTML/images/tabel2.PNG?raw=true)
 
 !Puteti sa va jucati si cu cellpadding si cellspacing.
 Have fun😊
