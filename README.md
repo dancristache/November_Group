@@ -1,35 +1,37 @@
-# Novermber_Group
+# Product preview card component
 
-Homework and Practice Repo for 15th November Group
+![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
-This is the Git Repository for participants of 15th November course group. In this place you can upload your homeworks and exercises to be code reviewed and approved.
+## Welcome! 👋
 
-## How does this work?
+Thanks for checking out this front-end coding challenge.
 
--   The teacher will give you the asignment name for example ('demo-project')
--   You clone the repo, create a branch with your own name and create a pull request to be approved and reviewed.
--   Generally, the reviews are done all week, untill Monday 18:00.
+## The challenge
 
-# Installation guide:
+Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
 
-Download [https://desktop.github.com/]
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-## Clone Repo
+## Where to find everything
 
-![Clone Repo](https://i.imgur.com/b1mao7A.png)
+Your task is to build out the project to the designs inside the `/design` folder. You will find the desktop version of the design. 
 
-## Create a new Branch
+You will find the picture needed in the `/images` folder.
 
-![Create a branch](https://i.imgur.com/GtX4PdP.png)
+Color code for price and "Add to Cart" section is #3D8168; The another color code for price is #6C7289
 
-## Commit your Work
+Code colors: 
+- Add to cart section and price - #3D8168
+- The second price and description - #6C7289
+- Gabrielle Essence section - #1C232B
 
-![Commit Work](https://i.imgur.com/M9Sanco.png)
 
-## Create a pull request
+## Building your project
 
-![Push Origin](https://i.imgur.com/Vper1Zh.png)
+Download the starter code
+Set up the project with version control (e.g. Git)
+Read the README.md file and have a look around the project
+Set up your project/file architecture however you want
+Start coding!
 
-![Create Pull Request](https://i.imgur.com/fL5DYMs.png)
-
-![Create Pull Request](https://i.imgur.com/VbzibuC.png)
+**Have fun building!** 🚀
