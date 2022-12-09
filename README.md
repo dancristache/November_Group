@@ -1,4 +1,4 @@
-# Novermber_Group
+# November_Group
 
 Homework and Practice Repo for 15th November Group
 
