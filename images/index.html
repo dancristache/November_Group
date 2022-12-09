@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100;9..144,400;9..144,600&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product preview card component</title>
+
+    <style>
+      tr {
+        background-color: #ffffff;
+      }
+      td {
+        border-radius: 25px;
+      }
+      img {
+        border-top-left-radius: 5%;
+        border-bottom-left-radius: 5%;
+      }
+    </style>
+  </head>
+  <body style="background-color: rgb(230, 222, 211)">
+    <table
+      style="
+        background-color: #ffffff;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10%;
+        margin-bottom: 15%;
+        border-radius: 25px;
+      "
+      cellspacing="0"
+      width="37%"
+    >
+      <tr>
+        <td rowspan="6">
+          <img
+            src="./image-product-desktop.jpg"
+            alt="Poza parfum Chanel"
+            width="330px"
+            height="490px"
+          />
+        </td>
+        <td>
+          <p
+            style="
+              font-family: sans-serif;
+              color: rgb(83, 83, 83);
+              border-top-right-radius: 25%;
+            "
+          >
+            <br />P E R F U M E
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h1 style="font-family: 'Fraunces', sans; color: #1c232b">
+            Gabrielle <br />Essence Eau<br />De Parfum
+          </h1>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p style="color: grey">
+            A floral, solar and voluptuous<br />interpretation composed by<br />Olivier
+            Polge, Perfumer-Creator<br />for the House of CHANEL.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h1
+            style="
+              color: #3d8168;
+              font-family: 'Fraunces', serif;
+              margin: 0;
+              display: inline;
+              float: left;
+            "
+          >
+            $149.99 &nbsp;
+          </h1>
+          <p style="color: #6c7289"><del> $169.99 </del></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <button
+            style="
+              background-color: #3d8168;
+              border: none;
+              color: white;
+              padding: 15px 45px;
+              text-align: center;
+              text-decoration: double;
+              display: inline-block;
+              font-size: 16px;
+              border-radius: 3%;
+              cursor: pointer;
+              margin: 4px 2px;
+            "
+          >
+            <i class="fa-solid fa-cart-shopping"></i>&nbsp; Add to cart
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td><br /><br /></td>
+      </tr>
+    </table>
+    <!--Shopping cart icon-->
+    <!-- <i class="fa-solid fa-cart-shopping"></i> -->
+    <script
+      src="https://kit.fontawesome.com/0dd48d6756.js"
+      crossorigin="anonymous"
+    ></script>
+    <!--Do not delete or comment this script. Without this script the shopping cart icon will not work-->
+  </body>
+</html>
