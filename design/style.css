@@ -23,21 +23,41 @@ body{
     margin-left: 5px;
 }
 .menul{
-    width: 400px;
+    width: 200px;
     height: 1000px;
     background-color: white;
     display: flex;
     flex-direction: column;
-    justify-content: center ;
+    align-items: center;
+    position: absolute;
+    left: 75px;
+    top: 80px;
 }
 
 .h1 {
     width: 150px;
     height: 30px;
     background-color: rgb(240, 231, 231);
-    text-align: center;
     text-decoration-line: underline;
     color: gray;
     font-weight: bold;
+    margin: 10px;
     margin-left: 5px;
+}
+.menull{
+
+margin-top: 20px;
+
+}
+
+.content{
+    width: 500px;
+    height: 1000px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 220px;
+    top: 1px;
 }
