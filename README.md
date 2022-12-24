@@ -1,35 +1,33 @@
-# November Group
+## Welcome! 👋
 
-Homework and Practice Repo for 15th November Group
+Thanks for checking out this front-end coding challenge.
 
-This is the Git Repository for participants of 15th november course group. In this place you can upload your homeworks and exercises to be code reviewed and approved.
+## The challenge
 
-## How does this work?
+Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
 
--   The teacher will give you the asignment name for example ('demo-project')
--   You clone the repo, create a branch with your own name and create a pull request to be approved and reviewed.
--   Generally, the reviews are done all week, untill Monday 18:00
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-# Installation guide:
+## Where to find everything
 
-Download [https://desktop.github.com/]
+Your task is to build out the project to the designs inside the `/design` folder. You will find the desktop version of the design. 
 
-## Clone Repo
+You will find the picture needed in the `/images` folder.
 
-![Clone Repo](https://i.imgur.com/b1mao7A.png)
+Code colors: 
+- Background body/heading - #f2f2f2
+- Sedan section/button - #e38826
+- Description -#ffffffbf
+- Suvs section/button - #006970
+- Luxury section/button - #004241
 
-## Create a new Branch
 
-![Create a branch](https://i.imgur.com/GtX4PdP.png)
+## Building your project
 
-## Commit your Work
+- Download the starter code
+- Set up the project with version control (e.g. Git)
+- Read the README.md file and have a look around the project
+- Set up your project/file architecture however you want
+- Start coding!
 
-![Commit Work](https://i.imgur.com/M9Sanco.png)
-
-## Create a pull request
-
-![Push Origin](https://i.imgur.com/Vper1Zh.png)
-
-![Create Pull Request](https://i.imgur.com/fL5DYMs.png)
-
-![Create Pull Request](https://i.imgur.com/VbzibuC.png)
+**Have fun building!** 🚀
