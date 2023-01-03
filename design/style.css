@@ -23,14 +23,14 @@ body{
     margin-left: 5px;
 }
 .menul{
-    width: 200px;
-    height: 1000px;
+    width: 215px;
+    height: 1700px;
     background-color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
     position: absolute;
-    left: 75px;
+    left: 450px;
     top: 80px;
 }
 
@@ -51,13 +51,44 @@ margin-top: 20px;
 }
 
 .content{
-    width: 500px;
-    height: 1000px;
+    width: 810px;
+    height: fit-content;
     background-color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
     position: absolute;
-    left: 220px;
+    left: 225px;
     top: 1px;
 }
+
+.articol{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-top: 20px;
+    border-bottom: 2px solid  #555;
+    width: 750px;
+   
+}
+
+img{
+    width: 200px;
+    height: 285px;
+    border: 1px solid #555;
+   margin-right: 20px;
+}
+.linie{
+    background-color: #555;
+    width: 810px;
+    height: 2px;
+}
+
+.footer{
+    position:absolute;
+    width: 2900px; 
+    height:300px;
+    background-color: rgb(10, 10, 9);
+    bottom: -70px;
+    
+   }
