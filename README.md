@@ -1,35 +1,18 @@
 # November Group
 
-Homework and Practice Repo for 15th November Group
+## Welcome! 👋
 
-This is the Git Repository for participants of 15th november course group. In this place you can upload your homeworks and exercises to be code reviewed and approved.
+Thanks for checking out this front-end coding challenge.
+Try to use CSS for both of the homeworks.
 
-## How does this work?
+## The challenge
 
--   The teacher will give you the asignment name for example ('demo-project')
--   You clone the repo, create a branch with your own name and create a pull request to be approved and reviewed.
--   Generally, the reviews are done all week, untill Monday 18:00
+Your task is to build a tabel and a form (see picture5 and picture6). 
 
-# Installation guide:
+Code colors: 
 
-Download [https://desktop.github.com/]
+- Picture5 - #1a1a1a, #e6e6e6, font-family: GEORGIA
+- Picture6 - #ccff33, #66ff33, #061a00
 
-## Clone Repo
 
-![Clone Repo](https://i.imgur.com/b1mao7A.png)
-
-## Create a new Branch
-
-![Create a branch](https://i.imgur.com/GtX4PdP.png)
-
-## Commit your Work
-
-![Commit Work](https://i.imgur.com/M9Sanco.png)
-
-## Create a pull request
-
-![Push Origin](https://i.imgur.com/Vper1Zh.png)
-
-![Create Pull Request](https://i.imgur.com/fL5DYMs.png)
-
-![Create Pull Request](https://i.imgur.com/VbzibuC.png)
+**Have fun building!** 🚀
