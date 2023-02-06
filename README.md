@@ -3,7 +3,7 @@
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
-Try to use CSS for both of the homeworks.
+Try to use CSS for both of the exercises.
 
 ## The challenge
 
