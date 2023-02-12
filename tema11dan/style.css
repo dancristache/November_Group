@@ -18,37 +18,33 @@ td{
 color: red;
 text-align: center;
 }
-/* 
-#ccff33, #66ff33, #061a00 */
 
-.mare{
-    margin: 70px;
-    width: fit-content;
-    border-color: #061a00;
-    border-style: solid;
-   border-style: groove;
-}
 
 form {
+    margin: 70px;
     background-color: #ccff33 ;
     width: fit-content;
     padding: 20px;
     border-radius: 10px;
-    /* border-style: solid; */
-    /* box-shadow: 10px 10px 5px #061a00, -1em 0 .4em olive; */
-   
+    box-shadow: 2px 2px 8px 3px #061a00;
+    
     
     
 }
-/* intrebari 
-border gradient,
-data */
-input, textarea {
+
+input, textarea, select {
+    height: 30px;
     border-style: solid;
     border-radius: 3px;
     border-color: #66ff33;
 }
-.butoane p {
+textarea{
+    width: 600px;
+}
+select{
+    width: 200px;
+}
+.butoane button {
     background-color:#061a00;
     color: azure;
     border-radius: 3px;
